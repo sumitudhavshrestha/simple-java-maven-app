@@ -25,6 +25,7 @@ pipeline {
             steps {
                 echo 'Job Complete!'
                 echo 'change done'
+                echo 'Added Polling SCM'
             }
         }
     }
