@@ -26,6 +26,7 @@ pipeline {
                 echo 'Job Complete!'
                 echo 'change done'
                 echo 'Added Polling SCM'
+                echo 'Newbranch Pipeline'
             }
         }
     }
